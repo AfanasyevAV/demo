@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1DEMO/6-12urok-master/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/1DEMO/6-12urok-master/p0061_layouts/src/main/res/layout/activity_alayout.xml" value="0.371875" />
+        <entry key="..\:/1DEMO/6-12urok-master/p0061_layouts/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/1DEMO/6-12urok-master/p0061_layouts/src/main/res/layout/activity_rlayout.xml" value="0.371875" />
+        <entry key="..\:/1DEMO/6-12urok-master/p0061_layouts/src/main/res/layout/activity_tlayout.xml" value="0.371875" />
+        <entry key="..\:/1DEMO/6-12urok-master/p0072_layoutprop/src/main/res/layout/activity_grlayout.xml" value="0.371875" />
+        <entry key="..\:/1DEMO/6-12urok-master/p0072_layoutprop/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/1DEMO/6-12urok-master/p0072_layoutprop/src/main/res/layout/activity_marginlayout.xml" value="0.371875" />
+        <entry key="..\:/1DEMO/6-12urok-master/p0081_viewbyid/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/1DEMO/6-12urok-master/p0091_onclickbuttons/src/main/res/layout/activity_main.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
